@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mostakima Dola
+## Hi there 👋
 
 ## About Me
  I'm Mostakima Khatun Dola
