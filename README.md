@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Mostakima Dola
 
-<!--
-**dolamostakima/dolamostakima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+ I'm Mostakima Khatun Dola
 
-Here are some ideas to get you started:
+🎓 BSc in CSE Student at Dhaka International University  
+💻 Passionate about learning Web Development and C#  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- C#
+- ASP.NET Core
+- JavaScript
+- HTML5, CSS3
+- My SQL Server
+
+🔭 I'm working on daily problem solving and uploading my learning progress here.  
+📚 Enrolled in the IDB Web Application Development Course.  
+🎯 Goal: Become a Full Stack Developer within the next few months.  
+
+📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/mostakima-dola-a75770364/)
+[Email](dolamostakima@gmail.com)
+
+📌Thanks for visiting my profile!  
+Feel free to connect with me 😊
+
+
