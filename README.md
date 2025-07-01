@@ -20,7 +20,7 @@
 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/mostakima-dola-a75770364/)
 [Email](mailto:dolamostakima@gmail.com)
-[Whatsapp](tel:01319185121)
+
 📌Thanks for visiting my profile!  
 Feel free to connect with me 😊
 
